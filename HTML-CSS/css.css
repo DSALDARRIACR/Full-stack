@@ -1,0 +1,37 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    background-color: white;
+    font-family: 'Open Sans', Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    background-color: blue;
+    color: white;
+    margin-top:-22px ;
+    height: 100px;
+    width:100% ;
+}
+.title{
+    font-size:25px ;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+
+     
+}
+.img{
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    bottom: 105px;
+    left: 25rem;
+
+}
